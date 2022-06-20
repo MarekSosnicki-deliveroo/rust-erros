@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 anyhow = {version = "1", features = ["backtrace"]}
 thiserror = "1"
+boolinator = "2"
